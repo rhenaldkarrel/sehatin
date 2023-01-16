@@ -14,10 +14,9 @@ import {
   Avatar
 } from '@chakra-ui/react';
 import useAuth from 'hooks/useAuth';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
 import { FiMenu, FiChevronDown } from 'react-icons/fi';
-import { useNavigate } from 'react-router-dom';
 import MobileProps from './types';
 
 const MobileNav = ({ onOpen, ...rest }: MobileProps) => {
