@@ -1,0 +1,50 @@
+# This file need to be in sync with .gitignore
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Build
+build
+
+# Dependency directories
+node_modules
+
+# NPM package lock
+package-lock.json
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.storybook
+yarn-error.log
+package-lock.json
+
+# Enviroment variables
+.env
+.env*
+
+# Export
+out
+.vscode/settings.json
+.idea/*
+
+# Test
+coverage
+
+**/*.snap.ts
+**/*.snap.js
+
+.eslintcache
+
+# Storybook
+/storybook-static/
+
+# JSON files
+tsconfig.json

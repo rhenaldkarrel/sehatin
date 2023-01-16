@@ -1,0 +1,144 @@
+{
+  "billing": [
+    {
+      "billing": 48000,
+      "id": 1,
+      "idEmr": 1,
+      "name": "Rhenald Karrel"
+    }
+  ],
+  "emr": [
+    {
+      "birthday": "1997-06-18",
+      "birthplace": "Jakarta",
+      "diagnosa": "Batuk dan demam",
+      "dokter": "Syarif",
+      "examinationDate": "2022-07-15",
+      "gender": "Laki-laki",
+      "id": 1,
+      "obat": [
+        "Paracetamol"
+      ],
+      "pasien": "Rhenald Karrel",
+      "patientId": 1
+    }
+  ],
+  "medicine": [
+    {
+      "harga": 3000,
+      "id": 1,
+      "nama": "Paracetamol"
+    },
+    {
+      "harga": 12000,
+      "id": 2,
+      "nama": "Aspirin"
+    },
+    {
+      "harga": 5000,
+      "id": 3,
+      "nama": "Ibuprofen"
+    }
+  ],
+  "patients": [
+    {
+      "dokter": "Syarif",
+      "id": 1,
+      "idPasien": 4,
+      "jam": "20:18",
+      "nama": "Rhenald Karrel",
+      "status": "Selesai",
+      "tanggal": "2022-07-15"
+    }
+  ],
+  "schedule": [
+    {
+      "biaya": 80000,
+      "id": 1,
+      "jadwal_praktek": "08:00 - 10:00",
+      "userId": 1
+    },
+    {
+      "biaya": 45000,
+      "id": 3,
+      "jadwal_praktek": "09:00 - 23:00",
+      "userId": "6"
+    },
+    {
+      "biaya": 60000,
+      "id": 4,
+      "jadwal_praktek": "02:00 - 08:00",
+      "userId": "7"
+    }
+  ],
+  "users": [
+    {
+      "email": "janedoe@gmail.com",
+      "id": 1,
+      "name": "Jane Doe",
+      "password": "$2a$10$6nnM.ECoZyv2wHz8p3uo4OMn5pWma3NtvuQwHAN97e4rQJRy4YK0i",
+      "role": "doctor"
+    },
+    {
+      "email": "kamalakhan@gmail.com",
+      "id": 2,
+      "name": "Kamala Khan",
+      "password": "$2a$10$ZYoNP/fgPNIT1Fb6ynecvObPGVXl5WXyUuLVs34h4rp9bCXxDqRgS",
+      "role": "admin"
+    },
+    {
+      "email": "johndoe@gmail.com",
+      "id": 3,
+      "name": "John Doe",
+      "password": "$2a$10$RtE8biT7HQgtO07kDyhloOgGCyLOBaoRp99R/ucydmOKO/udLBHp.",
+      "role": "receptionist"
+    },
+    {
+      "birthday": "1997-06-18",
+      "birthplace": "Jakarta",
+      "email": "renald@gmail.com",
+      "gender": "Laki-laki",
+      "id": 4,
+      "name": "Rhenald Karrel",
+      "password": "$2a$10$rQPrZWdMnZ7RVSx1bTu32enQjqjAiq0bp6.D.mQTWNwwKr4gXvWVS",
+      "phone": 8123456789,
+      "role": "patient"
+    },
+    {
+      "email": "syarif@gmail.com",
+      "id": 6,
+      "name": "Syarif",
+      "password": "$2a$10$Jh1NWGXljZUTrzpHHbfKJuUGoJDkXoW6g98o1vkbm4auvfNN6BUGq",
+      "role": "doctor"
+    },
+    {
+      "email": "media@gmail.com",
+      "id": 7,
+      "name": "Media",
+      "password": "$2a$10$vRU71MvwOKs3RraYkUo5GeATe2YnKx8Dsd3vVZTcM9xXTGJSwDmOi",
+      "role": "doctor"
+    },
+    {
+      "birthday": "1994-06-07",
+      "birthplace": "Jakarta",
+      "email": "sumanto@gmail.com",
+      "gender": "Laki-laki",
+      "id": 8,
+      "name": "Sumanto",
+      "password": "$2a$10$5L8y82eJumF1b4sFKWs7rOpY8bnQOfJj5x7UnkTu4UnGmGmtzYWq6",
+      "phone": 81234567868,
+      "role": "patient"
+    },
+    {
+      "birthday": "2001-06-03",
+      "birthplace": "Jakarta",
+      "email": "sultan@gmail.com",
+      "gender": "Laki-laki",
+      "id": 9,
+      "name": "Sultan Muhammad Habibi",
+      "password": "$2a$10$Djg2uNcONN85b4WKfWYP9OrEMTv6G/37W6QW.h2XpO/uMQEQrV15i",
+      "phone": 81234546789,
+      "role": "patient"
+    }
+  ]
+}

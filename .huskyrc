@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "pre-commit": "yarn lint --fix && yarn test --passWithNoTests --watchAll=false",
+    "pre-push": "yarn build"
+  }
+}
