@@ -1,8 +1,8 @@
 # FE Health 7 - Capstone Project
 
-This is an application intended for the GIGIH Generation 2.0 capstone project
+This is an application intended for the GIGIH Generation 2.0 capstone project. The original repository is on this [link](https://github.com/gg2-sehatin/sehatin). But I did some cleanup on the git due to some errors occurring.
 
-# SehatIn
+## SehatIn
 
 SehatIn is a Web Application to make it easier for the public to access and assist in increasing the efficiency and effectiveness of health facilities. SehatIn offers Electronic Medical Report as its main feature. In addition, SehatIn also presents a modernization of the health facility system, such as involving technology in all activities at health facilities, be it registration, payment, and taking medicine by patients.
 
