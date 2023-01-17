@@ -68,6 +68,47 @@ and then, run database on another git bash terminal
 $ yarn db
 ```
 
+## Screenshots
+
+![Login Page](./screenshots/login-page.png)
+<p align="center">Login Page</p>
+
+![Register Page](./screenshots/register-page.png)
+<p align="center">Register Page</p>
+
+![Admin Dashboard Page](./screenshots/admin-dashboard-page.png)
+<p align="center">Admin | Dashboard Page</p>
+
+![Admin Doctor Schedule List Page](./screenshots/admin-doctor-schedule-list-page.png)
+<p align="center">Admin | Doctor Schedule List Page</p>
+
+![Admin Medicine List Page](./screenshots/admin-medicine-list-page.png)
+<p align="center">Admin | Medicine List Page</p>
+
+![Admin User List Page](./screenshots/admin-user-list-page.png)
+<p align="center">Admin | User List Page</p>
+
+![Doctor EMR History Page](./screenshots/doctor-emr-history-page.png)
+<p align="center">Doctor | EMR History Page</p>
+
+![Doctor New EMR Page](./screenshots/doctor-new-emr-page.png)
+<p align="center">Doctor | New EMR Page</p>
+
+![Receptionist Medicine Queue Page](./screenshots/receptionist-medicine-queue-page.png)
+<p align="center">Receptionist | Medicine Queue Page</p>
+
+![Patient EMR Detail Page](./screenshots/patient-emr-detail-page.png)
+<p align="center">Patient | EMR Detail Page</p>
+
+![Patient EMR History Page](./screenshots/patient-emr-history-page.png)
+<p align="center">Patient | EMR History Page</p>
+
+![Patient Reservation History Page](./screenshots/patient-reservation-history-page.png)
+<p align="center">Patient | Reservation History Page</p>
+
+![Patient Reservation Page](./screenshots/patient-reservation-page.png)
+<p align="center">Patient | Reservation Page</p>
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
